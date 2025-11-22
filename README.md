@@ -2,11 +2,9 @@
 
 A visionOS application that tests and trains reaction time using Formula 1 starting light sequences. Built with SwiftUI, RealityKit, and visionOS 26.
 
-## Screenshots
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/JBalladares/F1_Reaction_Time_Game/main/Simulator Screenshot - Apple Vision Pro - 2025-11-22 at 12.34.00.png" width="45%" alt="Gameplay - F1 Light Sequence">
-  <img src="https://raw.githubusercontent.com/JBalladares/F1_Reaction_Time_Game/main/results.png" width="45%" alt="Results Screen">
+  <img src="https://raw.githubusercontent.com/JBalladares/F1_Reaction_Time_Game/main/Simulator Screenshot - Apple Vision Pro - 2025-11-22 at 12.35.36.png" width="45%" alt="Results Screen">
 </p>
 ---
 
